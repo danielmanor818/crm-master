@@ -1,0 +1,16 @@
+{
+  "name": "project-crm",
+  "version": "2.0.0",
+  "description": "",
+  "main": "SeleniumInfra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/events": "https://registry.npmjs.org/@types/events/-/events-3.0.0.tgz",
+    "chromedriver": "https://registry.npmjs.org/chromedriver/-/chromedriver-76.0.1.tgz",
+    "selenium-webdriver": "https://registry.npmjs.org/selenium-webdriver/-/selenium-webdriver-4.0.0-alpha.5.tgz"
+  }
+}
